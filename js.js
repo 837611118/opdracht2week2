@@ -15,5 +15,13 @@ function genereerTafel(getal) {
 
 
 
+genereerTafel(1);
+genereerTafel(2);
+genereerTafel(3);
+genereerTafel(4);
 genereerTafel(5);
+genereerTafel(6);
+genereerTafel(7);
 genereerTafel(8);
+genereerTafel(9);
+genereerTafel(10);
